@@ -2,7 +2,6 @@ header {
   background: #faffe4;
   display: flex;
   justify-content: space-between;
-  padding: 10px;
   border-bottom: 0.2rem solid #288080;
 }
 
