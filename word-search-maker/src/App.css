@@ -1,4 +1,5 @@
 .wrapper {
+  /* 화면 전체의 배경색 설정 */
   background: #faffe4;
   width: 100vw;
   height: 100vh;
